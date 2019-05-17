@@ -9,6 +9,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".desplegable"></activity>
+        <activity android:name=".boton5" />
+        <activity android:name=".boton4" />
+        <activity android:name=".boton3" />
+        <activity android:name=".Menu" />
+        <activity android:name=".boton2" />
         <activity
             android:name=".MainActivity"
             android:label="@string/app_name"
